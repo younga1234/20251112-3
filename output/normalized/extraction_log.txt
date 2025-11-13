@@ -1,0 +1,8 @@
+Data Normalization Log
+Generated at: 2025-11-13T08:54:46.494870
+
+Total files: 114
+  논문: 11 files
+  보고서: 71 files
+  보성주변유적: 17 files
+  장흥주변유적: 15 files
